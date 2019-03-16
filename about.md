@@ -2,12 +2,12 @@
 title: About
 permalink: /about/
 ---
-## React-Native
 
+## React-Native -> 언젠가 필요하면 리액트 너를 꼭.. 알아볼게
 
 ## You-Don't-Know-JS
 
-### this와 프로토타입
+### this와 프로토타입 -> 못했다.
 
 | 내용 | 날짜 | 결과물 |
 | -- | -- | -- |
@@ -23,7 +23,7 @@ permalink: /about/
 
 | 읽은 기간 | 제목 | 작가 | 출판사 | 일기 |
 | -- | -- | -- | -- | -- |
-| 9월 | 민주주의의 정원 | | | |
+| 2019.03 | 아주 작은 습관의 힘 | | | |
 
 
 ## License
