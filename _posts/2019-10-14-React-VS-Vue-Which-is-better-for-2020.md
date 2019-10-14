@@ -8,8 +8,6 @@ comments: true
 share: true
 ---
 
-# React VS Vue: Which is better for 2020?
-
 > 원문: http://pop.frontendweekly.co/gVN371?utm_campaign=Frontend%2BWeekly&utm_medium=web&utm_source=Frontend_Weekly_172
 
 자바스크립트 프레임워크는 HTML, CSS와 함께 모든 현대 소프트웨어 프로젝트의 프론트엔드 개발에 있어 필수적인 부준이 되었다. 2020년은 웹 애플리케이션 개발 프로젝트에 적합한 자바스크립트 프레임워크를 선택하는 새로운 해가 될 것이다.
