@@ -1,3 +1,13 @@
+---
+layout: post
+title: "React VS Vue: Which is better for 2020"
+description: ""
+date: 2019-10-15
+tags: [React, Vue]
+comments: true
+share: true
+---
+
 # React VS Vue: Which is better for 2020?
 
 > 원문: http://pop.frontendweekly.co/gVN371?utm_campaign=Frontend%2BWeekly&utm_medium=web&utm_source=Frontend_Weekly_172
